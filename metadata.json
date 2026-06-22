@@ -1,0 +1,6 @@
+{
+  "name": "Priority Plumbing and Heating",
+  "description": "Premium plumbing, heating, and high-end tiling services in Chesterfield, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
